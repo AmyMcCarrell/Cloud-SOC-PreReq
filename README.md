@@ -26,7 +26,7 @@ Azure Active Directory Overview (Users, Groups, and Access Management)
 #### Actions and Observations<b>
 
 1. Create a Windows 10 Pro virtual machine.
-2. Assign the name "(New)Honeypotlab" to the resource group.
+2. Assign the name "NewHoneypotlab" to the resource group.
 3. Set the name of the virtual network as "honeypot-vm".
 4. Double-check the virtual machine settings and proceed with creation.
 
